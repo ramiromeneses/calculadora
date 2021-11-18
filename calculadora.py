@@ -3,7 +3,7 @@
 #numero uno 
 
 #numero dos 
-num = input("ingresa numero 2: ")
+numero2 = input("ingresa numero 2: ")
 
 
 
