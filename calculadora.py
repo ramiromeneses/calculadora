@@ -1,7 +1,7 @@
 #crear una calculadora 
 
 #numero uno 
-input( "ingresa el numero 1: ")
+input( "ingresa el primer numero: ")
 #numero dos 
 numero2 = input("ingresa numero 2: ")
 
